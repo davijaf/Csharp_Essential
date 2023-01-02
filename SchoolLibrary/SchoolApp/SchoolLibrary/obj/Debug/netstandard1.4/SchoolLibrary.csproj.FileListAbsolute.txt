@@ -1,0 +1,10 @@
+D:\GitHub\Workspace\Csharp Beginners\SchoolLibrary\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.deps.json
+D:\GitHub\Workspace\Csharp Beginners\SchoolLibrary\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.dll
+D:\GitHub\Workspace\Csharp Beginners\SchoolLibrary\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.pdb
+D:\GitHub\Workspace\Csharp Beginners\SchoolLibrary\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.csproj.AssemblyReference.cache
+D:\GitHub\Workspace\Csharp Beginners\SchoolLibrary\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Workspace\Csharp Beginners\SchoolLibrary\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.AssemblyInfoInputs.cache
+D:\GitHub\Workspace\Csharp Beginners\SchoolLibrary\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.AssemblyInfo.cs
+D:\GitHub\Workspace\Csharp Beginners\SchoolLibrary\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.csproj.CoreCompileInputs.cache
+D:\GitHub\Workspace\Csharp Beginners\SchoolLibrary\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.dll
+D:\GitHub\Workspace\Csharp Beginners\SchoolLibrary\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.pdb
